@@ -1,0 +1,15 @@
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\bin\Debug\net5.0\OnlineCourse.Core.deps.json
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\bin\Debug\net5.0\OnlineCourse.Core.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\bin\Debug\net5.0\ref\OnlineCourse.Core.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\bin\Debug\net5.0\OnlineCourse.Core.pdb
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\bin\Debug\net5.0\OnlineCourse.DataLayer.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\bin\Debug\net5.0\OnlineCourse.DataLayer.pdb
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.csproj.AssemblyReference.cache
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.AssemblyInfoInputs.cache
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.AssemblyInfo.cs
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.csproj.CoreCompileInputs.cache
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.csproj.CopyComplete
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\ref\OnlineCourse.Core.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.Core\obj\Debug\net5.0\OnlineCourse.Core.pdb

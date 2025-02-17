@@ -1,0 +1,14 @@
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\bin\Debug\net5.0\OnlineCourse.DataLayer.deps.json
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\bin\Debug\net5.0\OnlineCourse.DataLayer.runtimeconfig.json
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\bin\Debug\net5.0\OnlineCourse.DataLayer.runtimeconfig.dev.json
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\bin\Debug\net5.0\OnlineCourse.DataLayer.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\bin\Debug\net5.0\ref\OnlineCourse.DataLayer.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\bin\Debug\net5.0\OnlineCourse.DataLayer.pdb
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.AssemblyInfoInputs.cache
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.AssemblyInfo.cs
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\ref\OnlineCourse.DataLayer.dll
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.pdb
+C:\Users\MAHDI\Desktop\OnlineCourse\TopLearn.DataLayer\obj\Debug\net5.0\OnlineCourse.DataLayer.genruntimeconfig.cache

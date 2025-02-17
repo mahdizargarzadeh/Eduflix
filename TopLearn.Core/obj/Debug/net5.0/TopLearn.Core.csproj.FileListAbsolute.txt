@@ -1,0 +1,30 @@
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.Core.deps.json
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.Core.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\bin\Debug\net5.0\ref\TopLearn.Core.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.Core.pdb
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.DataLayer.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.DataLayer.pdb
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.csproj.AssemblyReference.cache
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.AssemblyInfoInputs.cache
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.AssemblyInfo.cs
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.csproj.CoreCompileInputs.cache
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.csproj.CopyComplete
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\ref\TopLearn.Core.dll
+D:\TopLearn\Asp.Net Core 2 Advanded\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.pdb
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.Core.deps.json
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.Core.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\bin\Debug\net5.0\ref\TopLearn.Core.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.Core.pdb
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.DataLayer.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\bin\Debug\net5.0\TopLearn.DataLayer.pdb
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.csproj.AssemblyReference.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.AssemblyInfoInputs.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.AssemblyInfo.cs
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.csproj.CopyComplete
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\ref\TopLearn.Core.dll
+D:\Projects\ASp.Net.Core-Advance\TopLearn\TopLearn.Core\obj\Debug\net5.0\TopLearn.Core.pdb
